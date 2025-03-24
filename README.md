@@ -7,7 +7,7 @@
 
 ## Requisitos a serem observados:
 
-- **High-code****
+- **High-code**
 - **Gratuito**
 - **Grau de dificuldade:** Médio-difícil
 
